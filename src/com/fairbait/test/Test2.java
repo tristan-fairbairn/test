@@ -1,7 +1,7 @@
 package com.fairbait.test;
 
 /**
- * Comment
+ * Better comment!
  * @author Tristan
  *
  */
